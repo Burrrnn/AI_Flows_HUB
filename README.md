@@ -1,4 +1,4 @@
-# 🚀 AI Flows HUB
+                                                                                          # 🚀 AI Flows HUB
 
 <p align="center">
   <strong>GPU-powered AI utilities for YouTube automation — running from a single Colab/Kaggle notebook.</strong><br>
@@ -35,7 +35,7 @@ Instead of installing and running three separate AI projects manually, the noteb
 
 | Tool | Job | Main Output |
 |---|---|---|
-| 🎙️ **Chatterbox Turbo** | Text-to-Speech / voice cloning | `.wav` |
+| 🎙️ **Chatterbox Turbo** | Text-to-Speech / voice overs | `.wav` |
 | 📝 **Whisper large-v3-turbo** | Speech-to-Text with word timestamps | JSON / TXT / SRT |
 | 🖼️ **Real-ESRGAN** | AI image upscaling | `.png` / ZIP batch |
 
@@ -85,7 +85,6 @@ AI Flows HUB currently covers three important pieces of that pipeline:
 | YouTube task | AI Flows HUB |
 |---|---|
 | Generate narration | ✅ Chatterbox Turbo |
-| Clone a reference voice | ✅ Chatterbox Turbo |
 | Create multi-speaker dialogue | ✅ Chatterbox Turbo |
 | Transcribe narration/interviews | ✅ Whisper |
 | Generate word timestamps | ✅ Whisper |
