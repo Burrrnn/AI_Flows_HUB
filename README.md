@@ -1,13 +1,12 @@
-                                                                                          # 🚀 AI Flows HUB
+<h1 align="center">🚀 AI Flows HUB</h1>
 
 <p align="center">
-  <strong>GPU-powered AI utilities for YouTube automation — running from a single Colab/Kaggle notebook.</strong><br>
-  Voice generation • Speech-to-text • Image upscaling • Live progress • Google Drive delivery
+  <strong>GPU-powered AI utilities for YouTube automation.</strong><br>
+  Voice generation • Speech-to-text • Image upscaling • Live progress
 </p>
 
 <p align="center">
   <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google%20Colab-Ready-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"></a>
-  <a href="https://www.kaggle.com/code"><img src="https://img.shields.io/badge/Kaggle-Ready-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <img src="https://img.shields.io/badge/GPU-T4%20Friendly-7C3AED?style=for-the-badge" alt="GPU">
   <img src="https://img.shields.io/badge/Tools-3-10B981?style=for-the-badge" alt="Three tools">
   <img src="https://img.shields.io/badge/Interface-FastAPI%20Web%20UI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
