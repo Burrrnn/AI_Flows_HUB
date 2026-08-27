@@ -28,7 +28,10 @@
 
 **AI Flows HUB** is a notebook-based AI workspace designed around practical **YouTube automation workflows**.
 
-Instead of installing and running three separate AI projects manually, the notebook prepares the tools, creates their runners, and exposes them through one browser-based dashboard.
+Instead of installing and running three separate AI projects manually, the notebook prepares the tools, creates their runners, and exposes them through one browser-based dashboard. Just click the notebook link below
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Burrrnn/AI_Flows_HUB/blob/main/AI_Flows_HUB.ipynb)
+
 
 ### The current stack
 
@@ -45,6 +48,7 @@ The notebook is split into two major stages:
 **2. Web UI** → launch the browser dashboard, execute jobs, stream terminal activity, and send completed outputs to Google Drive.
 
 ---
+
 
 # ✨ Features
 
